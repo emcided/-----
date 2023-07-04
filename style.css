@@ -1,0 +1,27 @@
+table {
+    border: 1px solid black;
+}
+td {
+    width: 20px;
+    bordus: 1px solid black;
+}
+.a {
+    border: 1px solid black;
+    border-radius: 100%;
+}
+table tbody tr td {
+    border: 1px solid black;
+    border-radius: 100%;
+}
+td {
+    color: white;
+}
+table tbody tr {
+    border: 1px solid black;
+}
+tbody {
+    border: 1px solid black;
+}
+table tbody tr td {
+    border: 1px solid black;
+}
